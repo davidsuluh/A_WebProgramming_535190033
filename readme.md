@@ -16,3 +16,9 @@ git status
 git commit -m "changed content"
 git push
 test
+
+
+
+ kalau ada tanda arrow gitu 
+ git rm --cached week1
+ (Run git rm --cached path_to_submodule (no trailing slash))
