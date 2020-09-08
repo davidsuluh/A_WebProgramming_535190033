@@ -28,4 +28,5 @@ test
  git branch
 
  git branch namabranch
- git checkout namabranch (pindah directory)
+ git checkout namabranch (pindah directory) 
+ git push -U origin namabranch 
