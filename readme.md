@@ -22,3 +22,10 @@ test
  kalau ada tanda arrow gitu 
  git rm --cached week1
  (Run git rm --cached path_to_submodule (no trailing slash))
+
+ kl gamau ada file yg dimasiukin di git = .gitignore
+
+ git branch
+
+ git branch namabranch
+ git checkout namabranch (pindah directory)
