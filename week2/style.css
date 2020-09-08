@@ -1,0 +1,37 @@
+body {
+    font-style: italic;
+    background-color: beige;
+}
+
+p {
+    font-size: 2rem;
+    color:green;
+}
+
+.class1{
+    color:red;
+}
+
+.class2{
+    color:blueviolet;
+}
+
+#class3{
+    color:yellow;
+}
+
+
+#footer {
+    font-family: sans-serif;
+    font-size: medium;
+    border-style : solid;
+    border-width : .2 rem;
+    margin: 2rem; /*jarak kiri kanan atas bawah dengan layar */ 
+    padding:2rem; /*jarak kiri kanan atas bawah dengan container*/
+}
+
+
+
+div > p  {/* child selector , p didalam div */
+    color:rebeccapurple;
+}
